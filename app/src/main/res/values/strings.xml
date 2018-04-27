@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Transportation Redemption Calc</string>
+    <string name="Home">Home</string>
+    <string name="Client">Client</string>
+    <string name="Office">Office</string>
+    <string name="Calculate">Calculate</string>
+    <string name="PaidTransTime">" Paid Transportation Time:"</string>
+</resources>
